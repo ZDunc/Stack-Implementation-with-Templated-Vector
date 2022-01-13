@@ -1,1 +1,1 @@
-# Stack-Implementation-with-Templated-Vector
+# Stack Implementation with a Templated Vector Data Struct
