@@ -1,0 +1,8 @@
+Analysis:
+
+For my Stack<T> clear() function, the worst-case run-time complexity would be
+O(n), where it would have to walk through the container each array element at a
+time to call a destructor on each array element object. This makes the
+complexity linear in size. An array of primitive types, though, would be
+constant in run-time complexity, as the array could just be deleted in one step.
+However, this is simply not always the case.
